@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "gocJaYpevLaGz8DlYrqkCQ5YnT4FHcd3TUkZv82/Imc=",
+  "Source": "Counter",
+  "BasePath": "_content/Counter",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Counter\\wwwroot",
+      "Source": "Counter",
+      "ContentRoot": "C:\\Users\\bilal\\source\\repos\\Counter\\wwwroot\\",
+      "BasePath": "_content/Counter",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\bilal\\source\\repos\\Counter\\wwwroot\\htmlpage.html",
+      "SourceId": "Counter",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bilal\\source\\repos\\Counter\\wwwroot\\",
+      "BasePath": "_content/Counter",
+      "RelativePath": "htmlpage.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\htmlpage.html"
+    }
+  ]
+}
